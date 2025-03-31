@@ -42,9 +42,6 @@ This project demonstrates real-time object detection using the ZED2i stereo came
 * **Display Results:** The processed frames are displayed in a window.
 * **Exit:** The script exits when the 'q' key is pressed.
 
-## 🖼️ Visual Example
-
-![Object Detection Result](https://i.imgur.com/example.png)  *(Replace with your actual image if you take one)*
 
 ## 💡 Future Improvements
 
